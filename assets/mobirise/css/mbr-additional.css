@@ -1,5 +1,13 @@
+@import url(https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext);
 
+
+
+#header1-7 H1 {
+  color: #ffffff;
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 80px;
+}
 #menu-3 .navbar-toggler {
   color: #000;
 }
@@ -7,7 +15,8 @@
   font-size: 36px;
   font-family: 'Alegreya Sans', sans-serif;
 }
-#header1-5 H1 {
-  font-size: 48px;
+#slider-6 H2 {
   color: #ffffff;
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 80px;
 }
